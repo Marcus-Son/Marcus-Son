@@ -18,7 +18,8 @@ I'm always excited to explore new ideas and collaborate on innovative projects t
 
 ## 🛠 Tools
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcus-Son)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/Hi-I-m-MINHEYOK-SON-01be4606ca084220ae7959ef38751aa4?pvs=4](https://stupendous-link-eec.notion.site/Hi-I-m-MINHEYOK-SON-01be4606ca084220ae7959ef38751aa4?pvs=4))
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://stupendous-link-eec.notion.site/Hi-I-m-MINHEYOK-SON-01be4606ca084220ae7959ef38751aa4?pvs=4)
+
 
 ## 📬 Contact
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawn22587@gmail.com)
