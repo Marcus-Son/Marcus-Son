@@ -54,8 +54,9 @@ I enjoy
 
 ---
 
-## Featured Projects
+## 🔥Featured Projects
 - [AutoML Service Using Open Source](https://github.com/Marcus-Son/Auto-ML-Service-Using-Open-Source)  
 - [Knowledge Distillation for Fault Prediction](https://github.com/Marcus-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)
 
-📌 Check out my key projects below!
+
+**↓ Check out my key projects below!**
