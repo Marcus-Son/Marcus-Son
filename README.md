@@ -2,15 +2,16 @@
 
 ## About Me
 
-Hi, I'm Son!  
-I'm currently a **Master’s student in Data Science** at the University of Michigan, deeply passionate about data-driven discovery and intelligent automation.  
-Previously, I worked at the **Industrial Artificial Intelligence Lab at SeoulTech** as undergraduate researcher, where I applied cutting-edge machine learning to real-world challenges.
+**Data-driven explorer building the future with machine learning and analytics.**
 
-My main focus areas are **data science** and **machine learning**—from building predictive models to uncovering meaningful patterns in complex datasets.  
-I thrive on solving difficult problems, learning new tools, and collaborating with others who are equally passionate about technology and innovation.
+Hi, I’m Son!
+I’m a Data Science Master’s student at the University of Michigan with a passion for data-driven discovery and intelligent automation.
+Previously, I worked at SeoulTech’s Industrial AI Lab, applying machine learning to real-world problems.
 
-I'm always ready to dive into new ideas, contribute to impactful projects, and keep pushing my boundaries as a data scientist.  
-If you want to talk about machine learning, data science, or research, let’s connect!
+My main focus is on data science and machine learning—from predictive modeling to pattern discovery in complex datasets.
+I enjoy solving tough problems, learning new skills, and collaborating with others who love technology and innovation.
+
+Let’s connect if you want to talk about machine learning, data science, or research!
 
 ---
 
