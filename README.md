@@ -37,7 +37,7 @@ Let’s connect if you want to talk about machine learning, data science, or res
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawn22587@gmail.com)
 
---
+---
 
 ## Featured Projects
 - [AutoML Service Using Open Source](https://github.com/Marcus-Son/Auto-ML-Service-Using-Open-Source)  
