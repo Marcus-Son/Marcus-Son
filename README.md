@@ -4,21 +4,29 @@
 
 **Data-driven explorer building the future with machine learning and analytics.**
 
-Hi, I’m Son!
-I’m a Master’s student in Data Science at the University of Michigan.
-My passion is data-driven discovery and intelligent automation.
+Hi, I’m Son!  
+I’m a **Master’s student in Data Science** at the University of Michigan.  
+My passion is **data-driven discovery** and **intelligent automation**.
 
-Previously, I worked at SeoulTech’s Industrial AI Lab applying machine learning to real-world problems.
+Previously, I worked at **SeoulTech’s Industrial AI Lab**, applying machine learning to real-world problems.
 
-Main focus areas:
-	•	Data Science & Machine Learning
-	•	Predictive modeling
-	•	Pattern discovery in complex datasets
+---
 
-I enjoy:
-	•	Solving tough problems
-	•	Learning new skills
-	•	Collaborating with others who love technology and innovation
+**Main focus areas**
+- **Data Science & Machine Learning**
+- Predictive modeling
+- Pattern discovery in complex datasets
+
+---
+
+I enjoy  
+- Solving tough problems  
+- Learning new skills  
+- Collaborating with others who love technology and innovation
+
+---
+
+**Let’s connect** if you want to talk about machine learning, data science, or research!
 
 ---
 
