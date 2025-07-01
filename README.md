@@ -54,9 +54,21 @@ I enjoy
 
 ---
 
-## 🔥Featured Projects
-- [AutoML Service Using Open Source](https://github.com/Marcus-Son/Auto-ML-Service-Using-Open-Source)  
-- [Knowledge Distillation for Fault Prediction](https://github.com/Marcus-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)
+## 🔥 Featured Projects
 
+- [AutoML Service Using Open Source](https://github.com/Marcus-Son/Auto-ML-Service-Using-Open-Source)  
+  *AutoML pipeline for efficient model selection and deployment using open-source tools (Python).*
+
+- [Knowledge Distillation for Cost-Effective Fault Prediction in Manufacturing Process](https://github.com/Marcus-Son/Knowledge-Distillation-for-cost-effective-fault-Prediction-in-manufacturing-process)  
+  *2023 Fall Academic Conference, Korean Institute of Industrial Engineers. Efficient defect detection through knowledge distillation.*
+
+- [Classification and Calibration of Dysarthric Speech](https://github.com/Marcus-Son/Classification_and_Calibration_of_Dysarthric_Speech)  
+  *Deep learning for early dysarthria diagnosis. Focus on clinical calibration and speech classification (Jupyter).*
+
+- [Optimal Combination of Knowledge Distillation and Calibration Techniques for Reliable AI Models](https://github.com/Marcus-Son/Optimal-Combination-of-Knowledge-Distillation-and-Calibration-Techniques-for-Reliable-AI-Models)  
+  *Systematic evaluation of KD and calibration techniques under class imbalance for trustworthy AI (Jupyter).*
+
+- [Fault Point Labeling and Fault Detection in Time Series Data](https://github.com/Marcus-Son/Fault-Point-Labeling-and-Fault-Detection-in-Time-Series-Data)  
+  *3rd K-AI Manufacturing Data Analysis Competition. Real-time fault detection in industrial time series data (Jupyter).*
 
 **↓ Check out my key projects below!**
